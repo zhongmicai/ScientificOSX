@@ -1,6 +1,6 @@
 # ScientificOSX
 
-These are the steps I took recently to setup a new MacbookPro (Catalina OSX 10.15.7) for scientific/bioinformatics use.
+These are the steps I took recently to setup a new MacbookPro (Catalina OSX 10.15.7) for scientific/bioinformatics use. note your OSX.
 
 ## Step 1, base software:
 
